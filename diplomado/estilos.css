@@ -1,0 +1,19 @@
+body{
+    background-image: url('./imagenes/rosafondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ 
+
+
+.mybutton{
+background-color:#FF8383;
+border:none;
+font-size: 10px;
+margin: 5px;
+color: #FF8383;
+border-radius: 40px;
+padding: 17px;
+
+
+}
